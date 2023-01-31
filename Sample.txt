@@ -1,0 +1,3 @@
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and is not specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today.
+It is popular for a number of reasons -
+(1) Simple Syntax (2) Versatile (3) Beginner Friendly (4) Open Source (5) Modules and Libraries
